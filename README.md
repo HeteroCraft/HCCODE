@@ -1,3 +1,5 @@
+![HCCODE](https://img.shields.io/badge/HeteroCraft-CODE-blue)
+
 ![HCCODE STAR](https://img.shields.io/github/stars/HeteroCraft/HCCODE.svg)
 ![HCCODE ISSUES OPEN](https://img.shields.io/github/issues/HeteroCraft/HCCODE.svg)
 
