@@ -45,9 +45,8 @@ HCCODE有以下几个优势：
 **步骤 2.** 在PHP文件中使用以下代码, 并定义$code用于输入代码.
 
 ```
-$code = 'input';
-include 'hccode.php';
-echo $code ; //Output
+$code = 'input';//Input
+include 'hccode.php';//Include and Output
 ```
 
 ### Method Two. Use the online service | 方法二. 使用在线服务
