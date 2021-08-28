@@ -73,4 +73,4 @@ If you want to get full usages, go to the WIKI page.(SOON)
 
 If you have problems when you using HCCODE, please go to the [ISSUES](https://github.com/HeteroCraft/HCCODE/issues) page.
 
-如果你在使用HCCODE时遇到问题, 请前往 [ISSUES](https://github.com/HeteroCrafy/HCCODE/issues) 页面向我们报道.
+如果你在使用HCCODE时遇到问题, 请前往 [ISSUES](https://github.com/HeteroCraft/HCCODE/issues) 页面向我们报道.
