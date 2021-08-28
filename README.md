@@ -1,4 +1,5 @@
 ![HCCODE STAR](https://img.shields.io/github/stars/HeteroCraft/HCCODE.svg)
+![HCCODE ISSUES OPEN](https://img.shields.io/github/issues/HeteroCraft/HCCODE.svg)
 
 # Thanks for choosing HeteroCraft Code!
 # 感谢您选择 HeteroCraft Code!
