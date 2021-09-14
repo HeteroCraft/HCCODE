@@ -29,7 +29,7 @@ $copyright =
     If you like, give us a star!
 -->';
 if ($_GET['code']){
-    $code = $_GET['code']
+    $code = $_GET['code'];
 }
 
 $final = str_replace(PHP_EOL, '<br />', str_replace('[br]', '<br />', str_replace('[/i]', '</i>', str_replace('[i]', '<i>', str_replace('[/link]', '">Website Link</a>', str_replace('[link]', '<a rel="noopener" target="_blank" href="', str_replace('[/img]', '"/>', str_replace('[img]', '<img src="', str_replace('[/b]', '</b>', str_ireplace('[b]', '<b>', str_ireplace('>', '$gt;', str_ireplace('<', '&lt;', $code))))))))))));
